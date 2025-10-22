@@ -10,7 +10,7 @@
 	INCBIN "gfx/pokemon/front/pinkachu.pic", 0, 1 ; sprite dimensions
 	dw PinkachuPicFront, PinkachuPicBack
 
-	db THUNDER, AGILITY, THUNDER_WAVE, PAZ_YPPIZ ; level 1 learnset
+	db THUNDER, DOUBLE_TEAM, THUNDER_WAVE, PAZ_YPPIZ ; level 1 learnset
 	db GROWTH_FAST ; growth rate
 
 	; tm/hm learnset
@@ -20,7 +20,7 @@
 	     REFLECT,      BIDE,         SWIFT,        SKULL_BASH,   REST,         \
 	     THUNDER_WAVE, SUBSTITUTE,   FLASH,        WILD_CHARGE,  IRON_TAIL,    \
 	     LIGHT_SCREEN, THUNDERPUNCH, EXPLOSION,    SELFDESTRUCT, FIRE_FANG,    \
-	     ICE_FANG,     THUNDER_FANG, SURF,         DIG,          WATER_GUN
+	     ICE_FANG,     THUNDER_FANG, DIG
 	; end
 
 	db BANK(PinkachuPicFront)
