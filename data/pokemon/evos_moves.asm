@@ -787,7 +787,8 @@ PsyduckEvosMoves:
 	db 36, CONFUSION
 	db 43, FURY_SWIPES
 	db 52, HYDRO_PUMP
-	db 60, AMNESIA
+	db 63, HYPNOSIS
+	db 76, AMNESIA
 	db 0
 
 DrowzeeEvosMoves:
@@ -1198,10 +1199,11 @@ VulpixEvosMoves:
 	db 0
 ; Learnset
 	db 16, QUICK_ATTACK
-	db 21, ROAR
-	db 28, CONFUSE_RAY
-	db 35, FLAMETHROWER
-	db 42, FIRE_SPIN
+	db 21, ROAR ; 5
+	db 28, CONFUSE_RAY ; 7
+	db 35, FLAMETHROWER ; 7
+	db 42, FIRE_SPIN ; 7
+	db 49, HYPNOSIS
 	db 0
 
 NinetalesEvosMoves:
@@ -1729,7 +1731,8 @@ GolduckEvosMoves:
 	db 39, CONFUSION
 	db 48, FURY_SWIPES
 	db 59, HYDRO_PUMP
-	db 70, AMNESIA
+	db 72, HYPNOSIS
+	db 87, AMNESIA
 	db 0
 
 HypnoEvosMoves:

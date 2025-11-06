@@ -20,7 +20,7 @@
 	     RAGE,         DIG,          MIMIC,        DOUBLE_TEAM,  BIDE,         \
 	     SWIFT,        SKULL_BASH,   REST,         SUBSTITUTE,   SURF,         \
 	     STRENGTH,     LOW_KICK,     ICE_PUNCH,    IRON_TAIL,    LIGHT_SCREEN, \
-	     SHADOW_CLAW,  TRI_ATTACK
+	     SHADOW_CLAW,  TRI_ATTACK,   PSYCHIC_M
 	; end
 
 	db BANK(GolduckPicFront)
