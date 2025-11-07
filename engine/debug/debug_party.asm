@@ -18,7 +18,7 @@ DebugNewGameParty: ; unreferenced except in _DEBUG
 	db PINKACHU, 99
 	db STARTER_PIKACHU, 40
 	db PINSIR, 99
-	db MEWTWO, 90
+	db FEAROW, 90 ; Mewtwo
 	db -1 ; end
 
 PrepareNewGameDebug: ; dummy except in _DEBUG
@@ -92,15 +92,15 @@ IF DEF(_DEBUG)
 	ld a, CUT
 	ld [hl], a
 
-	; Mewtwo.
+	; Subfearow. ; Mewtwo.
 	ld hl, wPartyMon6Moves
-	ld a, PSYCHIC_M
+	ld a, DOUBLE_EDGE ; PSYCHIC_M
 	ld [hli], a
-	ld a, AMNESIA
+	ld a, AIR_CUTTER ; AMNESIA
 	ld [hli], a
-	ld a, RECOVER
+	ld a, ROOST ; RECOVER
 	ld [hli], a
-	ld a, PSYSTRIKE
+	ld a, HEAT_WAVE ; PSYSTRIKE
 	ld [hl], a
 
 	; Get some debug items.

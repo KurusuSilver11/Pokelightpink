@@ -17,8 +17,8 @@
 	tmhm RAZOR_WIND,   WHIRLWIND,    TOXIC,        TAKE_DOWN,    DOUBLE_EDGE,  \
 	     HYPER_BEAM,   RAGE,         MIMIC,        DOUBLE_TEAM,  BIDE,         \
 	     SWIFT,        SKY_ATTACK,   REST,         SUBSTITUTE,   FLY,          \
-	     AIR_CUTTER,   HEAT_WAVE,    SUBMISSION,   HORN_DRILL,   TRI_ATTACK,   \
-	     ROOST
+	     AIR_CUTTER,   HEAT_WAVE,    AGILITY,      HORN_DRILL,   TRI_ATTACK,   \
+	     ROOST,        DRILL_RUN,    REFLECT
 	; end
 
 	db BANK(SubfearowPicFront)

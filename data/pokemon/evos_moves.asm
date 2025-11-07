@@ -372,6 +372,7 @@ GengarEvosMoves:
 ; Learnset
 	db 29, HYPNOSIS
 	db 38, DREAM_EATER
+	db 47, SHADOWBALL
 	db 0
 
 NidoranFEvosMoves:
@@ -503,6 +504,7 @@ GastlyEvosMoves:
 ; Learnset
 	db 27, HYPNOSIS
 	db 35, DREAM_EATER
+	db 43, SHADOWBALL
 	db 0
 
 ScytherEvosMoves:
@@ -634,6 +636,7 @@ FearowEvosMoves:
 	db 25, MIRROR_MOVE
 	db 34, DRILL_PECK
 	db 43, AGILITY
+	db 52, FOCUS_ENERGY
 	db 0
 
 PidgeyEvosMoves:
@@ -1657,6 +1660,8 @@ DewgongEvosMoves:
 
 SubfearowEvosMoves:
 ; Evolutions
+	db 0
+; Learnset
 	db 9, LEER
 	db 25, MIRROR_MOVE
 	db 35, DRILL_PECK
@@ -1664,8 +1669,8 @@ SubfearowEvosMoves:
 	db 55, AGILITY
 	db 65, JUMP_KICK
 	db 75, FREEZEWING
-	db 0
-; Learnset
+	db 85, FOCUS_ENERGY
+	db 95, FREEZEWING
 	db 0
 
 MissingNo7AEvosMoves:
@@ -1919,6 +1924,7 @@ HaunterEvosMoves:
 ; Learnset
 	db 29, HYPNOSIS
 	db 38, DREAM_EATER
+	db 47, SHADOWBALL
 	db 0
 
 AbraEvosMoves:
