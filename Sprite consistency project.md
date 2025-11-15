@@ -36,6 +36,7 @@ Here are some I have already worked on, but you may make further change if you d
 * Starmie
 
 
+
 *Still, consider looking at these and fixing them if you think any of them look bad.*
 
 
@@ -81,4 +82,10 @@ If the Back-Sprite simply looks bad with gen 1 shading and detail, consider havi
 
 
 Everyone who works on it legitimately will be credited, even if just one sprite.
+
+
+
+**Also:**
+
+Some of the sprites' file sizes are under 1KB. This is because of a lossless compression. It will be undone upon saving, most likely. It does not matter, I am only mentioning this because it can mess with color changing (although you should keep it **EXACTLY** to the four colors already on the image), so if you get issues just save it in MS Paint or something and it'll decompress and act as expected. You might not even have these issues. Articuno's Back-Sprite is an example, currently.
 
