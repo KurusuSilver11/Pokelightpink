@@ -4,6 +4,10 @@
 
 
 
+#### **DO THE PROJECT IN THE SECOND BRANCH TITLED "Sprite-consistency-project"**
+
+
+
 **Do not edit:**
 
 * Front sprites
