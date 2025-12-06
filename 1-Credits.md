@@ -87,9 +87,7 @@ Helped me figure out how to make this game
 
 Apps used
 
-* Audacity (Audio modifying)
 * WSL and RGBDS
-* Polishedmap map editor (didn't use yet, plan to)
 * Git? (idk if it's actually doing anything)
 * BGB Emulator
 * GitHub Desktop
