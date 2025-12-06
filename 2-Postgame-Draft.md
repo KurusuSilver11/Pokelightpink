@@ -1,5 +1,7 @@
 Note: "KURUSU" is placeholder for the player. "SEB" is placeholder for rival. (I used those in the ROM's Debug Mode lol)
 
+Note 2: Apparently GitHub might have f'd up the formatting on this a bit and I'm not fixing it. 
+
 After you beat the elite four, if you visit Professor Oak, he will have something for you.
 
 Rough text idea: (I tried formatting it similarly to how it would be in-game, but I know it still would have to be much more broken to actually work lol)
