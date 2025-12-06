@@ -68,3 +68,4 @@ My assumption is to make each character a separate image, but I could see it sti
 
 Please also look at my notes for the lore and the draft for the postgame.
 
+Note: I was most likely going to restart from a fresh copy of Pokeyellow for all of this. The current version is too undocumented and messy.
