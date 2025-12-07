@@ -1,12 +1,13 @@
 Koji
 
 Demo player's name is コージ, Kōji. I took the Debug name because both demo names are taken by anime characters or something. I'm aware this is the name of the Snorlax guy.
-He has a brother named ケン, Ken.
+He had a brother named ケン, Ken, that was completely corrupted into the void (he has no sprite in the demo).
+
 Backstory:
 
 Koji was going to be the protagonist of Gold and Silver, but he was scrapped along with the rest of that version of the world. He was stuck there.
 
-His starter is a Kurusu. He also has a shiny Marill named Pikblue that he found randomly while wandering his broken world (Yes I really caught that full-odds randomly in the demo).
+His starter is a Kurusu. He also has a shiny Marill named Pikblue that he found randomly while wandering his broken world (Yes, I really caught that full-odds shiny randomly in the demo).
 
 Secret lore: The Johto protagonist was built with some copied fragments of Koji.
 
@@ -36,17 +37,17 @@ Long ago, there was not one Egg, but two. There hatched two Pokémon; Two gods. 
 
 They created the original Kanto together. Pokémon Red/Green.
 
-However, while Johto was being created, the two got into a fight. The lesser one wanted to take over.
+However, while Johto was being created, the two got into a fight. The other one wanted to take over.
 
-Unfortunately, the lesser one, deemed a Faker, won. True Arceus was sapped of its power and banished into the void, as did most of that build of Johto.
+Unfortunately, the latter, deemed the False God, won. True Arceus was sapped of its power and banished into the void, as did most of that version of Johto.
 
-Faker Arceus then made the rest of the world, but it is all imperfect and flashy compared to what True Arceus would have done.
+False Arceus then forged the rest of the world, but it is imperfect/impure compared to what True Arceus was capable of.
 
-Faker has a bit of an ego and took an extravagant form, and wiped True Arceus from all records of history, replacing it with himself. True Arceus is more of a blur in appearance (the beta Arceus from DP Beta).
+False Arceus is more egotistical and took an extravagant form, and wiped True Arceus from all records of history, replacing it with himself. True Arceus is more of a blur in appearance (the beta Arceus from DP Beta).
 
-Notably, one of True Arceus' last creations was an old version of what became Celebi. It was banished a while after when Faker decided to make a new one.
+Notably, one of True Arceus' last creations before the incident was an old version of what became Celebi. It was banished a while after False Arceus created a new Celebi.
 
-There is also Beta Versions of the Lake Trio, but that's likely a Sequel thing and I also only have Backsprites to work with there.
+There is also Beta Versions of the Lake Trio, but that's likely a Sequel thing (and I also only have Backsprites to work with for them).
 
 Note that this hack largely didn't follow a lot of lore that was revealed in Legends, mostly because I recycled some of this from a scrapped non-ROM Hack project years ago.
 
@@ -56,33 +57,33 @@ Sequel ideas
 
 Alternative history; Due to the events of Light Pink, some things are different.
 
-* Some Beta Pokémon have began inhabiting some of the normal world.
-* Beta Johto was placed south of the real Johto/Kanto by True Arceus sometime after Light Pink, and has become a relatively popular tourist attraction. However, tourists must be wary to not damage anything. Notably, the air feels the same, strange clouds surrounding the land.
-* Gym Leaders, among others, use some Beta Pokémon.
-* Some people have a bit of an identity crisis over doppelgangers from Spaceworld, such as Jasmine, Falkner etc.
-* Imposter Oak is now a licensed professor who is the head of the Beta Pokémon study.
-* Faker Arceus, in its unpowered defeated state, was taken by Team Truth.
-* Team Rocket was disbanded by Team Beta Rocket sometime between the events of Light Pink and the sequel, OR Team Rocket and Team Beta Rocket are at war
-* Pokémon Tower was not replaced with a Radio tower, and instead was built next to the town on Route 8. This is because some of the people who were in Johto2 felt disgusted at such an idea, so the original idea was scrapped.
+* Beta Pokémon began inhabiting some of the normal world, though it's still considered a new phenomenon.
+* As you may have read, Beta Johto was placed south of the real Johto/Kanto by True Arceus at the end of Light Pink, and has become a relatively popular tourist destination. However, tourists must be wary to not damage anything. Notably, the atmosphere feels the same, with strange semitransparent fog surrounding the land seeming to preserve that. (That's not new to this game, it was just unmentioned in Light Pink)
+* Gym Leaders, among others, might use Beta Pokémon.
+* Some people had a bit of an identity crisis over doppelgangers from Spaceworld, such as Jasmine, Falkner etc, but for the most part have come to accept them.
+* Imposter Oak is now a licensed professor who is the head of the studies about Beta Pokémon, now officially called that for lack of a better term.
+* Team Rocket and Team Beta Rocket (Didn't decide on a proper new name yet) are at war with each other. Team Beta Rocket is sometimes mistaken as the normal TR, and faces some trouble for it.
+* Pokémon Tower was not replaced with a Radio tower, and instead was built next to the town on Route 8. This is because some of the people who were in Johto2 felt disgusted at such an idea, so the original idea was eventually scrapped. However, they did build basement floors to expand it.
 * The Pokédex now naturally has the Beta Pokémon as a category.
-* The Archipelago disappeared after the events of Light Pink, for until someone else finds a map and ticket.
-* Light (Player) disappeared into the Archipelago.
-* The Mount Silver battle is replaced with another character.
+* The Archipelago disappeared from public eye once again after the events of Light Pink, for until someone else finds a map and ticket.
+* Light (Player) disappeared into the Archipelago with Pinkachu (returned to in-game me) and most of their Pokemon (B-Creation Trio and True Arceus went back to their duties, among others).
+* The Mount Silver battle is replaced with another character. (Either Blue or a new character, most likely)
 
 New villains:
 
 Team Truth
-Terrorists who are against the existence of the people from Johto2, and still worship the Fake Arceus. Their leader is Rann, a mentally ill man who was obsessed with Arceus and sees the True Arceus and its people as evil.
 
-They recovered the Faker and will attempt to banish the True Arceus once again and destroy all the people from the void. They often terrorize Beta Pokémon.
+Terrorists who are against the existence of the people from Johto2, and still worship the Fake Arceus. Their leader is Rann, a mentally ill man who was obsessed with False Arceus and sees the True Arceus and its people as evil.
+
+False Arceus, in its unpowered defeated state, was taken by Team Truth. They often terrorize Beta Pokémon, and aim to erase them once again and bring False Arceus back to power.
 
 --
 
-Layout of the region (Demo; Some will be fixed in hack):
+Layout of SW 97 Johto Region (Demo; Some will be fixed in hack): (These were just notes I had written down when I looked through the demo in debug mode, still not finished doing that lol)
 
 * All gym buildings seem to be marked with a sign that says in English "LEAGUE". The first room seems to be a classroom, with stairs that lead to the actual gym room. The front map that looks like there'd be a warp is nonfunctional, but I assume the warp back is to the right of the right statue you spawned at. I know this is true in High Tech, and I assume other cities too.
 * Imposter Oak lives in New Tech with what I assume is his wife.
-* New Tech's pokemart is bugged, with a somewhat scrambled tileset.
+* New Tech's pokemart is bugged, with a somewhat scrambled tileset. (Will likely be retained as a small gag in Light Pink and Sequel, less so in the latter)
 * Only Silent Hill and the route connecting it to Old Town have collision, NPC interaction scripts, battles and encounters. The rest has no collision data or NPC scripts, so you can walk through anything that isn't hardcoded (like cut trees and water) and the NPCs simply turn to face you without saying anything if you interact with them.
 * Some NPCs use the player's sprite.
 * The Starters, Hoothoot etc. do not evolve in the demo (although Caterpie/metapod still do), but that will be fixed in the hack.
