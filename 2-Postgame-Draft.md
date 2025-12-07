@@ -163,7 +163,7 @@ He is surprised when you tell him how you got here, saying they had nothing to d
 Imposter Oak reveals that he was the creator of the Pokédex upgrade chip, but didn't know where it went, since it disappeared from his lab a few days ago.
 (Pinkachu stole it, then it was modified to include modern gen 2, devmons etc. and left in Real Oak's lab for you)
 
-"Oak" then realizes you do not have any Pokémon. When you say that you had some previously, he theorizes that they didn't come through the portal with you. He then offers one of two Starter Pokémon, Happa and Honooguma; Kurusu was already taken by someone else that Imposter Oak says you'll meet soon enough. You can only have one, because Imposter Oak still needs at least one for himself.
+"Oak" then realizes you do not have any Pokémon other than Pyukumuku, whom he does not recognize. When you say that you had some others previously, he theorizes that they didn't come through the portal with you. He then offers one of two Starter Pokémon (since Pyukumuku looks rather weak), Happa and Honooguma; Kurusu was already taken by someone else that Imposter Oak says you'll meet soon enough. You can only have one, because Imposter Oak still needs at least one for himself.
 
 After you make your choice, Imposter Oak offers to battle you so you can get familiar with your new Pokémon. This is probably optional (especially since if you pick Happa you're at a disadvantage against him). He uses the other Starter.
 
